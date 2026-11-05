@@ -1,0 +1,6 @@
+biblio
+  .venv/
+  .gitignore  <- nouveau fichier, ici
+  main.py
+  test_main.py
+  README.md
